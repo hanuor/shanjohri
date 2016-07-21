@@ -5,6 +5,7 @@
  
  */
 
+@font-face { font-family: Raleway; src: url('Raleway-Bold.ttf'); }
 body {
   background-color: #f2f2f2;
     font-family: "Lato";
