@@ -59,7 +59,9 @@ a:visited {
 text-decoration: none;
     outline: 0;
 }
-
+li{
+	font-family: Raleway;
+}
 /* mouse over link */
 a:hover {
     color: #bdbdbd;
