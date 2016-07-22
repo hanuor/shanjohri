@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Paragraph & Typographic */
 p {
+	font-family: "Raleway"
     line-height: 28px;
     margin-bottom: 25px;
 }
@@ -37,6 +38,7 @@ p {
 
 /* Links */
 a {
+	font-family: "Raleway";
     color: #f85c37;
     word-wrap: break-word;
 
