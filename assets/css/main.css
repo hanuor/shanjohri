@@ -108,7 +108,7 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/cover.png) no-repeat center top;
+	background: url(../img/cover.jpg) no-repeat center top;
 	margin-top: -10px;
 	padding-top:20px;
 	text-align:center;
@@ -174,8 +174,30 @@ a:after {
 	padding-bottom: 20px;
 }
 
+#achievement{
+	background: url(../img/socialc.jpg) no-repeat center top;
+	margin-top: 0px;
+	padding-top: 20px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 300px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 
 /* White Wrap */
+
 
 #w {
 	background: #424242;
@@ -258,13 +280,29 @@ li#linknochange{
 
 
 /* Grey Wrap */
+#g{
+		background: url(../img/little.jpg) no-repeat center top;
+	margin-top: 0px;
+	padding-top: 20px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 300px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
 
-#g {
-	background: #757575;
-	padding-top: 35px;
-	padding-bottom: 35px;
-	text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
+
+
+
 
 /* Dark Grey Wrap */
 #dg {
@@ -274,18 +312,33 @@ li#linknochange{
 	text-align: center;
 }
 #expertise {
-	background: #eeeeee;
+	background: #ffffff;
 	padding-top: 70px;
 	padding-bottom: 70px;
 	text-align: center;
 }
 /* Footer Wrap */
 
-#f {
-	background: #2f2f2f;
-	padding-top: 70px;
-	padding-bottom: 70px;
-	text-align: center
+#f{
+
+		background: url(../img/socialc.jpg) no-repeat center top;
+	margin-top: 0px;
+	padding-top: 20px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 300px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;	
 }
 
 #f h3 {
@@ -302,7 +355,7 @@ li#linknochange{
 /* Copyright Wrap */
 
 #c {
-	background: #222222;
+	background: #212121;
 	padding-top: 15px;
 	text-align: center;
 }
@@ -580,4 +633,13 @@ li#linknochange{
 .team a {
 	padding-right: 10px;
 	padding-left: 10px;
+}
+h2.heading {
+    width: 23em;
+    background-color: #212121;
+    opacity: 0.8;
+    color: white;
+
+    word-wrap: break-word;
+    text-align: center;
 }
