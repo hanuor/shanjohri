@@ -165,3 +165,7 @@ body { background-color: #eee; }
 .footer-social-links a:hover:before{
     background: #111;
 }
+ul {
+  list-style-type: none;
+  
+}

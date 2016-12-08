@@ -51,3 +51,9 @@ display: inline-block;}
     width: 100%;
     color: #bdbdbd;
   }
+ul li{
+  font-family: 'Titillium Web';
+}
+ul {
+  list-style-type: none;
+}
