@@ -118,7 +118,7 @@ body { background-color: #eee; }
     margin: 0 5px;
     text-align: center;
     display: inline-block;
-    color: #111;
+    color: #333333;
     
     -webkit-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);  
     -moz-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000); 
