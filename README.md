@@ -1,7 +1,5 @@
 # shanjohri
 Readme for testing the new mechanism.
-Vamos han
-#test 2
-Djfjfu
-Hi
-Raw commit not visible
+![alt text][logo]
+
+[logo]: https://image.ibb.co/m8xeZc/Untitled_Diagram.png "Editing your Github pages on-the-go"
