@@ -1,5 +1,6 @@
 $(document).ready(function(){
-  
+    $('#about_me').load("https://raw.githubusercontent.com/hanuor/shanjohri/gh-pages/data/about-me.md");
+    $('#footer_note').load("https://raw.githubusercontent.com/hanuor/shanjohri/gh-pages/data/footer-notes.md");
     setBlinkingEffect();
 
 });
