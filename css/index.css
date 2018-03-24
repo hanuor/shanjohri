@@ -1,0 +1,33 @@
+.container{
+    margin-top: 53px;
+  justify-content: center;
+}
+.col-sm-4 h3 u{
+    text-decoration:underline red;
+}
+.footer{
+    position:fixed;
+    bottom:0;   
+    text-align: center; 
+    margin: auto;
+}
+#social_channels a{
+    margin-left: 3px;
+    margin-right: 3px;
+}
+#social_divider{
+    width: 60px;
+}
+@media only screen and (min-width: 600px)  {
+    .container{
+        width: 700px;
+    }
+}
+
+.footer{
+    position: relative;
+text-align: center;
+font-size: 11px;
+    color:darkgrey; 
+bottom: 0px;
+}
