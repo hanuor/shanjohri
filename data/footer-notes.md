@@ -1,1 +1,1 @@
-Copyright 2018. <b>J</b>.
+Year 2018. <b>J</b>.
