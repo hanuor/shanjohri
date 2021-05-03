@@ -12,6 +12,6 @@ So far I have built:<br>
  - PeakPerformer - (OPERATIONAL and a 20K USD MRR company)<br>
  - Bytemine - (OPERATIONAL and valued at 250K GBP)<br>
 <br><br>
-From managing remote teams from all of the world to creating designs, mobile apps, and websites. I'm fortunate enough to experience it all.
+From managing remote teams (people from all over the world); to creating designs, mobile apps, and websites. I'm fortunate enough to experience it all.
 <br><br>
 If you have more questions about me then let's connect over email! sj@bytemine.io
